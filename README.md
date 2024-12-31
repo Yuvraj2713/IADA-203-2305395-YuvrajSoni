@@ -20,13 +20,10 @@ The app prototype aims to serve as a cutting-edge solution for users seeking to 
 2. **SCAMPER Board**
    - Contains a detailed SCAMPER board documenting the ideation process, feature brainstorming, and innovative design concepts.
 
-3. **Storyboard**
-   - A visual summary outlining the steps taken during ideation, feature prioritization, and prototype development.
-
-4. **Documentation**
+3. **Documentation**
    - This README file, providing insights into the project’s objectives, features, development process, and usage instructions.
 
-5. **Assets Folder**
+4. **Assets Folder**
    - Contains all supporting design assets, including visuals, SCAMPER board exports, and interactive prototype files.
 
 ---
