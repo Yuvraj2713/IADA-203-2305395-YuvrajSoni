@@ -1,4 +1,4 @@
-# IADA-203-2305395-YuvrajSoni
+# IADAI-203-2305395-YuvrajSoni
 
 
 ## **Project Name:** ImmersiveLife - Wearable AR/VR App 
